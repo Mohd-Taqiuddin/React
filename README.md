@@ -13,5 +13,5 @@ npm start
 <img src="img/home.png"> <br/>
 
 ### Serach Results
-<img src="img/creating-event.png"> <br/>
+<img src="img/results.png"> <br/>
 
