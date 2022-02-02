@@ -1,5 +1,6 @@
 import './App.css';
 import Home from './pages/Home';
+import SearchPage from './pages/SearchPage';
 import {
   BrowserRouter as Router,
   Routes,
@@ -17,7 +18,7 @@ function App() {
           <Route exact path="/" element={<Home/>}/>
 
           {/* Search page / results */}
-          <Route exact path="/search" element={<Home/>}/>
+          <Route exact path="/search" element={<SearchPage />}/>
 
         </Routes>
       </Router>
