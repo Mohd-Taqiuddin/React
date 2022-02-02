@@ -26,7 +26,7 @@ function Home() {
 
       <div className='home__footer'>
         <div className='home__footerLeft'>
-          <Link to="/about">About</Link>
+          <Link to={{ pathname: "https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1" }}>About</Link>
           <Link to="/about">Advertising</Link>
           <Link to="/about">Business</Link>
           <Link to="/about">How Searh works</Link>
