@@ -8,10 +8,11 @@ import {
 } from "react-router-dom";
 
 
+
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/React'>
 
         <Routes>
           {/* Home Page */}
