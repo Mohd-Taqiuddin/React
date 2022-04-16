@@ -15,3 +15,5 @@ npm start
 ### Serach Results
 <img src="img/results.png"> <br/>
 
+### Hosted Link
+<a href='https://mohd-taqiuddin.github.io/React/'> 
