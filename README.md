@@ -16,4 +16,4 @@ npm start
 <img src="img/results.png"> <br/>
 
 ### Hosted Link
-<a href='https://mohd-taqiuddin.github.io/React/'> 
+<a src='https://mohd-taqiuddin.github.io/React/'> 
